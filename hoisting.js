@@ -1,6 +1,5 @@
 print5();
-print10();
-
+console.log(print10);
 function print5(){
     console.log(5);
 }
